@@ -1,12 +1,13 @@
 {
+    "name": "object/calisthenics",
     "autoload": {
         "psr-4": {
-            "Alura\\Calisthenics\\": "src/"
+            "Object\\Calisthenics\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Alura\\Calisthenics\\Tests\\": "tests/"
+            "Object\\Calisthenics\\Tests\\": "tests/"
         }
     },
     "require": {
